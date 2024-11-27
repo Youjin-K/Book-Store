@@ -7,7 +7,6 @@ function App() {
   return (
     <>
       {" "}
-      <ThemeSwitcher />
       <Layout>
         <Home />
       </Layout>
